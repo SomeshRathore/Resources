@@ -1,2 +1,4 @@
 # Resources
-This repository is for revesioning the Notes.
+This repository provides the fundamental notes of below technologies.
+
+
